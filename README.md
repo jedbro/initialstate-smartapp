@@ -4,7 +4,7 @@ This repository is a host of the Initial State Event Sender - a dirivitive of th
 
 ### DIY Version
 
-0. Sign up for a free trial, or freed .edu account at 
+0. Sign up for a free trial, or freed .edu account at www.initialstate.com
 1. Copy the code from [`unbuffered-event-sender.groovy`](https://raw.githubusercontent.com/jedbro/initialstate-smartapp/master/unbuffered-event-sender.groovy)
 2. Log in to your local HE server.
 3. Navigate to App Code
