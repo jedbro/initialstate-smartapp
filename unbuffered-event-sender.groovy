@@ -1,8 +1,8 @@
 /**
  *  Initial State Event Streamer (non-buffered)
  *
- *  Copyright 2016 David Sulpy
- *  Updates for Hubitat Evolution by Jed Brown on Jan 2020
+ *  Copyright 2020 Jed Brown
+ *  Port from David Sulpy - 2016
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -22,7 +22,7 @@
 definition(
     name: "DIY Initial State Event Streamer",
     namespace: "initialstate.events",
-    author: "David Sulpy, Jed Brown",
+    author: "Jed Brown",
     description: "A Hubitat App to allow Hubitat Evolution events to be viewable inside an Initial State Event Bucket in your https://www.initialstate.com account.",
     category: "Hubitat Labs",
     iconUrl: "https://s3.amazonaws.com/initialstate-web-cdn/IS-wordmark-vertica_small.png",
