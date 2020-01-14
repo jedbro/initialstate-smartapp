@@ -1,4 +1,4 @@
-# Initial State SmartThings SmartApp
+# Initial State Hubitat For  - WORK IN PROGRESS
 
 This repository is a host of the Initial State Event Sender - a SmartThings SmartApp intended to make easy the process of sending events that occur on a SmartThings network to Initial State for visualization.
 
