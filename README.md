@@ -1,9 +1,10 @@
-# Initial State Hubitat For  - WORK IN PROGRESS
+# Initial State Hubitat App
 
 This repository is a host of the Initial State Event Sender - a dirivitive of the SmartThings SmartApp forked for Hubitat Evolution, intended to make easy the process of sending events that occur on an HE network to Initial State for visualization.
 
 ### DIY Version
 
+0. Sign up for a free trial, or freed .edu account at 
 1. Copy the code from [`unbuffered-event-sender.groovy`](https://raw.githubusercontent.com/jedbro/initialstate-smartapp/master/unbuffered-event-sender.groovy)
 2. Log in to your local HE server.
 3. Navigate to App Code
