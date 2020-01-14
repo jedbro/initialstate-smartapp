@@ -19,4 +19,6 @@ This repository is a host of the Initial State Event Sender - a dirivitive of th
 14. Find this app now installed and add the devices you want / need
 
 
-You should now be all set! Please note, however, that events will populate the bucket automatically as new events happen on your SmartThings network. Your history of events will build from when you setup the SmartApp forward, so, if you don't see any events in your Initial State bucket immediately, it's most likely because no events have occurred just yet!
+You should now be all set! Please note, however, that events will populate the bucket automatically as new events happen on your Hubitat network. Your history of events will build from when you setup the SmartApp forward, so, if you don't see any events in your Initial State bucket immediately, it's most likely because no events have occurred just yet!
+
+This is all a fork of the fabulous work by [`David Sulpy`](https://github.com/davidsulpy/initialstate-smartapp).
