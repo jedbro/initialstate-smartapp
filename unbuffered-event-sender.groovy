@@ -20,15 +20,27 @@
  */
 
 definition(
-    name: "DIY Initial State Event Streamer",
-    namespace: "initialstate.events",
+    name: "Initial State Event Streamer",
+    namespace: "Logicalnonsense",
     author: "Jed Brown",
     description: "A Hubitat App to allow Hubitat Evolution events to be viewable inside an Initial State Event Bucket in your https://www.initialstate.com account.",
-    category: "Hubitat Labs",
+    category: "Data Visualization",
     iconUrl: "https://s3.amazonaws.com/initialstate-web-cdn/IS-wordmark-vertica_small.png",
     iconX2Url: "https://s3.amazonaws.com/initialstate-web-cdn/IS-wordmark-vertical.png",
     iconX3Url: "https://s3.amazonaws.com/initialstate-web-cdn/IS-wordmark-vertical.png",
-    oauth: [displayName: "Initial State", displayLink: "https://www.initialstate.com"])
+)
+
+definition(
+    name:"Gentle Wake Up",
+    namespace: "BPTWorld",
+    author: "Bryan Turcotte",
+    description: "Dim your lights up slowly, allowing you to wake up more naturally. Dim by level, color or temperature!",
+    category: "Convenience",
+    iconUrl: "",
+    iconX2Url: "",
+    iconX3Url: "",
+	importUrl: ""
+)
 
 import groovy.json.JsonSlurper
 
