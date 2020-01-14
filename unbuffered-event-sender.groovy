@@ -17,6 +17,11 @@
  *  devices for which the user has authorized. Likewise, Initial State's services call this
  *  SmartApp on the user's behalf to configure Initial State specific parameters. The ToS and
  *  Privacy Policy for Initial State can be found here: https://www.initialstate.com/terms
+ * ------------------------------------------------------------------------------------------------------------------------------
+ *
+ *  Changes:
+ *
+ *  V1.0.0 - 08/08/19 - Initial port from ST release.
  */
 
 definition(
