@@ -1,0 +1,17 @@
+{
+	"packageName": "Initial State Event Streamer",
+	"author": "Jed Brown",
+	"version": "1.0",
+	"minimumHEVersion": "0.0",
+	"dateReleased": "2020-01-13",
+	"apps" : [
+		{
+			"id" : "39f8f8b1-d023-4104-b874-f2c1013a8ab9",
+			"name": "Initial State Event Streamer",
+			"namespace": "jedbro",
+			"location": "https://raw.githubusercontent.com/jedbro/initialstate-smartapp/master/unbuffered-event-sender.groovy",
+			"required": true,
+			"oauth": false
+		}
+	]
+}
