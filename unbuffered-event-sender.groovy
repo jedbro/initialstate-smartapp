@@ -35,18 +35,6 @@ definition(
     iconX3Url: "https://s3.amazonaws.com/initialstate-web-cdn/IS-wordmark-vertical.png",
 )
 
-definition(
-    name:"Gentle Wake Up",
-    namespace: "BPTWorld",
-    author: "Bryan Turcotte",
-    description: "Dim your lights up slowly, allowing you to wake up more naturally. Dim by level, color or temperature!",
-    category: "Convenience",
-    iconUrl: "",
-    iconX2Url: "",
-    iconX3Url: "",
-	importUrl: ""
-)
-
 import groovy.json.JsonSlurper
 
 preferences {
