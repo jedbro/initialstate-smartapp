@@ -26,7 +26,7 @@
 
 definition(
     name: "Initial State Event Streamer",
-    namespace: "Logicalnonsense",
+    namespace: "logicalnonsense",
     author: "Jed Brown",
     description: "A Hubitat App to allow Hubitat Evolution events to be viewable inside an Initial State Event Bucket in your https://www.initialstate.com account.",
     category: "Data Visualization",
