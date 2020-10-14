@@ -8,7 +8,7 @@
 		{
 			"id" : "39f8f8b1-d023-4104-b874-f2c1013a8ab9",
 			"name": "Initial State Event Streamer",
-			"namespace": "jedbro",
+			"namespace": "logicalnonsense",
 			"location": "https://raw.githubusercontent.com/jedbro/initialstate-smartapp/master/unbuffered-event-sender.groovy",
 			"required": true,
 			"oauth": false
